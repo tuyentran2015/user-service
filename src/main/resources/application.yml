@@ -1,0 +1,6 @@
+   
+server:
+  port: 8443
+app:
+  api:
+    version: "v1.1.0"
